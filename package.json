@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git://github.com/journeyfront/universal-model.git"
   },
-  "author": "Journeyfront <dev@journeyfront.com>",
+  "author": "Carlos Killpack <carlos@killpack.me>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/journeyfront/universal-model/issues"
