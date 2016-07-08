@@ -4,9 +4,7 @@
   "description": "DRY models for client and server",
   "main": "index.js",
   "scripts": {
-    "jscs": "jscs test/ lib/ examples/",
-    "jshint": "jshint lib/ test/ examples/",
-    "lint": "npm run jshint && npm run jscs",
+    "lint": "standard",
     "pretest": "npm run lint",
     "test": "mocha test/server/ test/client/"
   },
@@ -34,13 +32,12 @@
     "winston": "^1.0.0"
   },
   "devDependencies": {
-    "jscs": "~1.8.0",
-    "jshint": "~2.5.10",
     "matchdep": "~0.1.2",
     "mocha": "~1.21.4",
     "nock": "^0.32.1",
     "proxyquire": "1.0.1",
     "sinon": "^1.10.3",
+    "standard": "^7.1.2",
     "supertest": "~0.7.1"
   }
 }
