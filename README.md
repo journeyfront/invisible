@@ -1,4 +1,4 @@
-# [Invisible.js](http://journeyfront.github.io/universal-model) [![Build Status](https://secure.travis-ci.org/journeyfront/universal-model.png)](http://travis-ci.org/journeyfront/universal-model) [![Dependencies](https://david-dm.org/journeyfront/universal-model.png)](https://david-dm.org/journeyfront/universal-model)
+# [Universal Model](http://journeyfront.github.io/universal-model) [![Build Status](https://secure.travis-ci.org/journeyfront/universal-model.png)](http://travis-ci.org/journeyfront/universal-model) [![Dependencies](https://david-dm.org/journeyfront/universal-model.png)](https://david-dm.org/journeyfront/universal-model)
 
 Invisible is a JavaScript library that leverages [browserify] to achieve the
 Holy Grail of web programming: model reuse in the client and the server.
