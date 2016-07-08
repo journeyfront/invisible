@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "body-parser": "^1.2.0",
-    "browserify": "13.0.1",
+    "browserify": "^13.0.1",
+    "browserify-shim": "^3.8.12",
     "coffee-script": "^1.9.2",
     "coffeeify": "^2.0.1",
     "express": "^4.12.3",
