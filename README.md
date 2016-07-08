@@ -1,8 +1,9 @@
-# [Invisible.js](http://invisiblejs.github.io) [![Build Status](https://secure.travis-ci.org/invisiblejs/invisible.png)](http://travis-ci.org/invisiblejs/invisible) [![Dependencies](https://david-dm.org/invisiblejs/invisible.png)](https://david-dm.org/invisiblejs/invisible) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/invisiblejs/invisible?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# [Invisible.js](http://journeyfront.github.io/universal-model) [![Build Status](https://secure.travis-ci.org/journeyfront/universal-model.png)](http://travis-ci.org/journeyfront/universal-model) [![Dependencies](https://david-dm.org/journeyfront/universal-model.png)](https://david-dm.org/journeyfront/universal-model)
 
-Invisible is a JavaScript library that leverages
-[browserify](https://github.com/substack/node-browserify) to achieve the Holy Grail of web programming:
-model reuse in the client and the server.
+Invisible is a JavaScript library that leverages [browserify] to achieve the
+Holy Grail of web programming: model reuse in the client and the server.
+
+[browserify]: https://github.com/substack/node-browserify
 
 ## Installation and setup
 
